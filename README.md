@@ -25,6 +25,7 @@ addon | version | summary
 --- | --- | ---
 [account_fiscal_position_vat_check](account_fiscal_position_vat_check/) | 10.0.1.0.0 | Check VAT on invoice validation
 [account_fiscal_year](account_fiscal_year/) | 10.0.1.0.0 | Account Fiscal Year
+[currency_rate_update](currency_rate_update/) | 9.0.1.0.0 (unported) | Currency Rate Update
 
 Unported addons
 ---------------
@@ -63,7 +64,6 @@ addon | version | summary
 [account_tax_update](account_tax_update/) | 1.0.44 (unported) | Update tax wizard
 [async_move_line_importer](async_move_line_importer/) | 0.1.2 (unported) | Asynchronous move/move line CSV importer
 [currency_rate_date_check](currency_rate_date_check/) | 8.0.1.0.0 (unported) | Make sure currency rates used are always up-to-update
-[currency_rate_update](currency_rate_update/) | 9.0.1.0.0 (unported) | Currency Rate Update
 
 [//]: # (end addons)
 
